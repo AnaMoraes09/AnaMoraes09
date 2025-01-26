@@ -1,4 +1,4 @@
-## Olá, me chamo Ana Luiza e sou entusiasta de Data Science!
+## Entusiasta em dados!
 <div align="center">
   <a href="https://github.com/AnaMoraes09">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaMoraes09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,8 +7,10 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Rstudio" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Ana-MySQL" height="90" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Ana-SQL" height="30" width="50" src="https://ojt.com/wp-content/uploads/2021/08/sql.png">
+  <img align="center" alt="Ana-ApacheSpark" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png">
+  <img align="center" alt="Ana-AWS" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
+  <img align="center" alt="Ana-dbt" height="30" width="75" src="https://mydata.ch/wp-content/uploads/image-3.png">
 </div>
   
   ##
